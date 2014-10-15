@@ -1,5 +1,5 @@
 /* Program returns the set of all integers within a range set by 'start' and 'end',
-   that are multiples of 4 or 6.
+   that are multiples of 3 or 5.
    Leon Graham, 2014
 */
 
